@@ -24,6 +24,13 @@ article, aside, details, figcaption, figure, footer, header, main, menu, nav, se
     display: block
 }
 
+.square{
+    height: 100px;
+    width: 19200px;
+    background: #10101c;
+    margin-bottom: -40px;
+}
+
 summary {
     display: list-item
 }
